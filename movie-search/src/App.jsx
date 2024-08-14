@@ -7,7 +7,7 @@ import MovieCard from "./components/MovieCard";
 //omdb API Key: 63b922b5
 
 //creating a static variable:
-const API_URL = "http://www.omdbapi.com?apikey=63b922b5";
+const API_URL = "https://www.omdbapi.com?apikey=63b922b5";
 
 function App() {
   
